@@ -1,0 +1,22 @@
+.teacher-list-container {
+    padding: 20px;
+    background-color: #f5f5f5;
+  }
+  
+  .teacher-list-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .teacher-list-container ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .teacher-list-container li {
+    background-color: #fff;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
